@@ -1,0 +1,13 @@
+DESCRIPTION
+eagle.epf
+.DS_STORE
+.DS_Store
+gerber-files
+*.b#[0-9]
+*.s#[0-9]
+*.b##
+*.s##
+*.pro
+*.job
+*~
+*.lck
